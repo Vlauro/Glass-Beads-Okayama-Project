@@ -43,13 +43,6 @@ Folder names follow the temporary names in the documentation.
 
 .txt files can contain links to Google Drive or operational notes.
 
-The metadata_index.json file is optional and can be used to centralize all structured information for automatic queries.
-Example content unorganized_metadata.md 
-### Unorganized Metadata
-Link: https://photogrammetry.altervista.org/items/show/2
-Notes: Waiting for structured version from Dmytro Nykonenko.
-3D Models
-The full-resolution models are hosted on Sketchfab for optimal visualization. You can explore each model by clicking the links below:
 
 ### Nima_Otsuka_02
 
