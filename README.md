@@ -112,11 +112,8 @@ Folder names follow the temporary names in the documentation.
 - **Structured Metadata Link**:  
   —Missing waiting from Dmytro Nykonenko—  
 - **Low Poly 3D Model Link**:  
-  PENDING: conversion of ALFA04Ha  
-- **Alternative Model**:  
-  —Missing waiting from Dmytro Nykonenko—  
-- **High Resolution 3D Model Repository Link**:  
-  PENDING: conversion of ALFA04Ha  
+   —Missing waiting from Dmytro Nykonenko—  
+- **High Resolution 3D Model Repository Link**:   
   Closed Folder: https://drive.google.com/drive/folders/15PyZ1qTKk_IxLUNcLdZxw8zBilbcCWkS?usp=drive_link  
 - **T.i.A.M.A.T. Metadata Compilation**:  
   – Waiting Data from Dmytro Nykonenko –  
@@ -208,11 +205,11 @@ Folder names follow the temporary names in the documentation.
 - **Unorganized Metadata Link**:  
   https://photogrammetry.altervista.org/items/show/52  
 - **Structured Metadata Link**:  
-  Pending  
+  https://photogrammetry.altervista.org/items/show/460    
 - **Low Poly 3D Model Link**:  
   https://sketchfab.com/3d-models/deltafs-sb-a02-f74fcdba60884fe9aa30106bbb8cfc86  
 - **High Resolution 3D Model Repository Link**:  
-  Pending  
+  https://drive.google.com/drive/folders/1mVEYlHmCr-U_--65_eSUtU0ujWfqe7EI?usp=drive_link  
 - **T.i.A.M.A.T. Metadata Compilation**:  
   Pending
 
