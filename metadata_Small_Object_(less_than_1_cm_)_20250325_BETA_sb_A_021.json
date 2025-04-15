@@ -1,0 +1,79 @@
+{
+    "F111 VideoFormat": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/290",
+        "value": "Select a Video Format"
+    },
+    "F113 VideoDuration": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/292#F113_Video_Duration",
+        "value": ""
+    },
+    "F75 ExportedVideo3DRendering": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/162#F75_Project_Video",
+        "value": ""
+    },
+    "F71 FinalPurpose": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/158#F71_Final_Use_of_Digital_Twin",
+        "value": "3D Model Video Rendering "
+    },
+    "F156 ModelComposition_MultipleParts": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/335#F156_Model_Composition_from_Multiple_Parts",
+        "value": ""
+    },
+    "Created in T.i.A.M.A.T": {"value": "true"},
+    "F31 ProcessingSoftware": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/117#F31_Processing_Software",
+        "value": "Zephyr 3D, professional license"
+    },
+    "F154 Georeferencing_3DModel": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/333#F154_Georeferencing_of_the_3D_Model",
+        "value": "34°41'21.01\"N 133°55'6.98\"E"
+    },
+    "F21 Matching Algorithm": {"value": "Structure from Motion (SfM) (or type of)"},
+    "F155 Orientation_3DModel": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/334#F155_Orientation_of_the_3D_ModelS",
+        "value": "NR No Rotation: No rotation applied (model aligned to the global system)"
+    },
+    "F1 SurveyObject": {
+        "Scope Note": "Survey Object denotes any object subjected to photogrammetric surveying or any kind of digital surveying. It represents the target of data acquisition processes, crucial for generating detailed digital records, analyses, and reconstructions within the FOPPA model for archaeological documentation. It must be a solid and visible object. The expression visible means that it interacts with light",
+        "value": "Nima Otsuka not classified "
+    },
+    "F112 VideoResolution": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/291#F112_Video_Resolution",
+        "value": ""
+    },
+    "SurveyLink": {"value": ""},
+    "F62 ProcessedTexturedMeshTextureSet": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/149#F62_Texture_Set_of_3D_Mesh",
+        "value": ""
+    },
+    "F59 TridimensionalDigitalTwinDigitalScale": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/146#F59_Digital_Scale",
+        "value": "Small Object (less than 1 cm )"
+    },
+    "F72 Exported3DModelVideoRendering": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/159#F72_3D_Model_Video_Rendering",
+        "value": ""
+    },
+    "F64 Modelling_ModifyingDescription": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/151#F64_Modelling_Description",
+        "value": ""
+    },
+    "F23 Meshing Algorithm": {"value": "Poisson Surface Reconstruction (or type of)"},
+    "Name of the Object": {"value": " 20250325_BETA_sb_A_021"},
+    "F100 TridimensionalDigitalTwin": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/145#F100_3D_Digital_Twin",
+        "value": "https://sketchfab.com/3d-models/deltafs-sb-a02-f74fcdba60884fe9aa30106bbb8cfc86 "
+    },
+    "F73 Exporting_EditingRenderingVideo": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/160#F73_Editing_Video",
+        "value": ""
+    },
+    "F42 AcquisitionLocation": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/128#F42_Place_Of_Acquisition",
+        "value": "https://www.openstreetmap.org/relation/6605128#map=17/34.689122/133.921977"
+    },
+    "F74 Exporting_EditingRenderingVideoSoftware": {
+        "IRI": "https://photogrammetry.altervista.org/items/show/161#F74_Video_Editing_Software",
+        "value": ""
+    }
+}
