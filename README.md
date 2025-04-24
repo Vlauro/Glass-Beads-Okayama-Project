@@ -222,7 +222,7 @@ Folder names follow the temporary names in the documentation.
 - **Unorganized Metadata Link**:  
   https://photogrammetry.altervista.org/items/show/59  
 - **Structured Metadata Link**:  
-  Pending  
+  https://photogrammetry.altervista.org/items/show/462 
 - **Low Poly 3D Model Links**:  
   https://sketchfab.com/3d-models/delta09a1aaa-bc9a09ec87eb487a95557b346104f28f  
   https://sketchfab.com/3d-models/delta01a1ccca-261beb54e09446b29680b4e3b88c1310  
