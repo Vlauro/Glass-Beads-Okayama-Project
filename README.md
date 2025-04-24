@@ -211,7 +211,7 @@ Folder names follow the temporary names in the documentation.
 - **High Resolution 3D Model Repository Link**:  
   https://drive.google.com/drive/folders/1mVEYlHmCr-U_--65_eSUtU0ujWfqe7EI?usp=drive_link  
 - **T.i.A.M.A.T. Metadata Compilation**:  
-  Pending
+  https://github.com/Vlauro/Glass-Beads-Okayama-Project/blob/main/metadata_Small_Object_(less_than_1_cm_)_20250325_BETA_sb_A_021.json
 
 ---
 
